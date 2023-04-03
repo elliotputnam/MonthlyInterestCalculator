@@ -1,6 +1,4 @@
 /*
-Elliot Putnam
-CS210-H7882
 The purpose of this program is to take user input data for initial amount, monthly
 deposits, interest rate, and total years and output the year-end interest gain.
 */
